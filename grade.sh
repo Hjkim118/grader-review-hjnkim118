@@ -23,6 +23,7 @@ cd /Users/hojoon/Desktop/list-examples-grader
 
 cp student-submission/ListExamples.java ./grading-area
 cp /Users/hojoon/Desktop/list-examples-grader/TestListExamples.java ./grading-area
+cp -r /Users/hojoon/Desktop/list-examples-grader/lib ./grading-area
 
 cd /Users/hojoon/Desktop/list-examples-grader/grading-area
 
